@@ -1,0 +1,60 @@
+{
+  "permalink": "/dazzleduck-website/fr/blog/architecture-inside-duck",
+  "source": "@site/blog/2025-02-05-architecture-inside-duck.md",
+  "title": "Inside Dazzle Duck: Architecture Overview",
+  "description": "In this post, we’ll dive deep into Dazzle Duck’s internal architecture —",
+  "date": "2025-02-05T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Architecture",
+      "permalink": "/dazzleduck-website/fr/blog/tags/blog/tags/architecture",
+      "description": "Learn about the design and internals of Dazzle Duck SQL Server."
+    },
+    {
+      "inline": false,
+      "label": "SQL",
+      "permalink": "/dazzleduck-website/fr/blog/tags/blog/tags/sql",
+      "description": "Query optimization, analytics, and data best practices."
+    },
+    {
+      "inline": true,
+      "label": "dazzle-duck",
+      "permalink": "/dazzleduck-website/fr/blog/tags/dazzle-duck"
+    }
+  ],
+  "readingTime": 0.18,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "John Whilliams",
+      "title": "Lead Developer",
+      "url": "https://github.com/jhon-whilliams",
+      "imageURL": "https://placehold.co/150x150?text=JW",
+      "key": "jhon",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "architecture-inside-duck",
+    "title": "Inside Dazzle Duck: Architecture Overview",
+    "authors": [
+      "jhon"
+    ],
+    "tags": [
+      "architecture",
+      "sql",
+      "dazzle-duck"
+    ],
+    "date": "2025-02-05T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Extending Dazzle Duck with Custom Functions",
+    "permalink": "/dazzleduck-website/fr/blog/extending-dazzle-duck"
+  },
+  "nextItem": {
+    "title": "Introducing Dazzle Duck — A Smarter SQL Engine",
+    "permalink": "/dazzleduck-website/fr/blog/introducing-dazzle-duck"
+  }
+}

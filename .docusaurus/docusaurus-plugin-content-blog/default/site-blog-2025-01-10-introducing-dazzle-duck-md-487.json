@@ -1,0 +1,56 @@
+{
+  "permalink": "/dazzleduck-website/fr/blog/introducing-dazzle-duck",
+  "source": "@site/blog/2025-01-10-introducing-dazzle-duck.md",
+  "title": "Introducing Dazzle Duck — A Smarter SQL Engine",
+  "description": "Welcome to the very first post of Dazzle Duck —",
+  "date": "2025-01-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Announcements",
+      "permalink": "/dazzleduck-website/fr/blog/tags/blog/tags/announcement",
+      "description": "Official release news and product updates."
+    },
+    {
+      "inline": true,
+      "label": "dazzle-duck",
+      "permalink": "/dazzleduck-website/fr/blog/tags/dazzle-duck"
+    },
+    {
+      "inline": false,
+      "label": "SQL",
+      "permalink": "/dazzleduck-website/fr/blog/tags/blog/tags/sql",
+      "description": "Query optimization, analytics, and data best practices."
+    }
+  ],
+  "readingTime": 0.23,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "John Whilliams",
+      "title": "Lead Developer",
+      "url": "https://github.com/jhon-whilliams",
+      "imageURL": "https://placehold.co/150x150?text=JW",
+      "key": "jhon",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "introducing-dazzle-duck",
+    "title": "Introducing Dazzle Duck — A Smarter SQL Engine",
+    "authors": [
+      "jhon"
+    ],
+    "tags": [
+      "announcement",
+      "dazzle-duck",
+      "sql"
+    ],
+    "date": "2025-01-10T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Inside Dazzle Duck: Architecture Overview",
+    "permalink": "/dazzleduck-website/fr/blog/architecture-inside-duck"
+  }
+}

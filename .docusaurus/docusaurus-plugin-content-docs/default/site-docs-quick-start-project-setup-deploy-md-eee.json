@@ -1,0 +1,27 @@
+{
+  "id": "quick-start/project-setup/deploy",
+  "title": "Hosting Website",
+  "description": "Build the Website",
+  "source": "@site/docs/quick-start/project-setup/deploy.md",
+  "sourceDirName": "quick-start/project-setup",
+  "slug": "/quick-start/project-setup/deploy",
+  "permalink": "/dazzleduck-website/fr/docs/quick-start/project-setup/deploy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Deployment - Github Pages",
+    "sidebar_position": 2
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Dazzle Duck - Project Setup",
+    "permalink": "/dazzleduck-website/fr/docs/quick-start/project-setup/setup"
+  },
+  "next": {
+    "title": "About",
+    "permalink": "/dazzleduck-website/fr/docs/about"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "quick-start/configuration",
+  "title": "Configuration Basics",
+  "description": "Customize Your Dazzle Duck Setup",
+  "source": "@site/docs/quick-start/configuration.md",
+  "sourceDirName": "quick-start",
+  "slug": "/quick-start/configuration",
+  "permalink": "/dazzleduck-website/fr/docs/quick-start/configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Configuration",
+    "sidebar_position": 4
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/dazzleduck-website/fr/docs/quick-start/installation"
+  },
+  "next": {
+    "title": "Setup & Deployment",
+    "permalink": "/dazzleduck-website/fr/docs/category/setup--deployment"
+  }
+}

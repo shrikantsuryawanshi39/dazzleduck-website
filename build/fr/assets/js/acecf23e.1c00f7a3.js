@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdazzleduck_website=globalThis.webpackChunkdazzleduck_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/dazzleduck-website/fr/blog","blogTitle":"Blog","authorsListPath":"/dazzleduck-website/fr/blog/authors"}')}}]);

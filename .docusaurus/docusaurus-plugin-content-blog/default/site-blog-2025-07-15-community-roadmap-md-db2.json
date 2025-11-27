@@ -1,0 +1,61 @@
+{
+  "permalink": "/dazzleduck-website/fr/blog/community-roadmap",
+  "source": "@site/blog/2025-07-15-community-roadmap.md",
+  "title": "Dazzle Duck Community Roadmap — 2025",
+  "description": "We’re thrilled to share the 2025 roadmap for Dazzle Duck!",
+  "date": "2025-07-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Roadmap",
+      "permalink": "/dazzleduck-website/fr/blog/tags/blog/tags/roadmap",
+      "description": "Our vision, future plans, and open-source milestones."
+    },
+    {
+      "inline": false,
+      "label": "Community",
+      "permalink": "/dazzleduck-website/fr/blog/tags/blog/tags/community",
+      "description": "Stories, contributions, and highlights from our users."
+    },
+    {
+      "inline": false,
+      "label": "Announcements",
+      "permalink": "/dazzleduck-website/fr/blog/tags/blog/tags/announcement",
+      "description": "Official release news and product updates."
+    }
+  ],
+  "readingTime": 0.11,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Dazzle Duck Community",
+      "title": "Contributors",
+      "url": "https://github.com/dazzleduck",
+      "imageURL": "https://placehold.co/150x150?text=DD",
+      "key": "community",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "community-roadmap",
+    "title": "Dazzle Duck Community Roadmap — 2025",
+    "authors": [
+      "community"
+    ],
+    "tags": [
+      "roadmap",
+      "community",
+      "announcement"
+    ],
+    "date": "2025-07-15T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Dazzle Duck Blog",
+    "permalink": "/dazzleduck-website/fr/blog/"
+  },
+  "nextItem": {
+    "title": "Extending Dazzle Duck with Custom Functions",
+    "permalink": "/dazzleduck-website/fr/blog/extending-dazzle-duck"
+  }
+}
